@@ -1,7 +1,7 @@
 # Team BDML
 
 - PhD students presentation
-- Restaurant
+- Restaurant (December 8th)
 - Seminar series
 - Website
 - Server
