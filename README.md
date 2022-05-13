@@ -4,7 +4,6 @@
 
 
 - PhD students presentation
-- Restaurant (December 8, May 11)
 
 - Website
 
@@ -15,3 +14,4 @@ Current
 
 Done
 - Group Photo
+- Restaurant (December 8, May 11)
