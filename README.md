@@ -4,14 +4,14 @@
 - Website: https://web.umons.ac.be/pucg/
 
 ## Group meetings
-- Meeting minutes
+- (Meeting minutes)[/group-meetings]
 
 ## Activities
 
-- Group Photo
-- Restaurant 
-* May 11
-* December 8
+* Group Photo
+* Restaurant 
+	- May 11, 2022
+	- December 8, 2021
 
 ## Notes
 - Working hours start at the latest at 9:30 AM.
