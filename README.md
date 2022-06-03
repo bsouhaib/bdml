@@ -4,7 +4,7 @@
 - Website: https://web.umons.ac.be/pucg/
 
 ## Group meetings
-- (Meeting minutes)[/group-meetings]
+- [Meeting minutes](/group-meetings)
 
 ## Activities
 
@@ -14,4 +14,4 @@
 	- December 8, 2021
 
 ## Notes
-- Working hours start at the latest at 9:30 AM.
+- Working hours start at 9:30 AM (at the latest).
