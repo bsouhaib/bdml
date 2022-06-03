@@ -1,7 +1,10 @@
 # Big Data and Machine Learning Group (UMONS)
 
 ## Ongoing
-- Website: https://web.umons.ac.be/bdml/
+* Websites:
+- https://souhaib-bentaieb.com/research-team/
+- https://web.umons.ac.be/bdml/
+
 
 ## Group meetings
 - [Meeting minutes](/group-meetings)
