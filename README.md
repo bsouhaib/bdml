@@ -1,13 +1,17 @@
-# Team BDML
+# Big Data and Machine Learning Group (UMONS)
 
-
-test test
-
-- PhD students presentation
+## Ongoing
 - Website: https://web.umons.ac.be/pucg/
 
+## Group meetings
+- Meeting minutes
 
-Done
-- About working hours (at the latest 9:30 AM)
+## Activities
+
 - Group Photo
-- Restaurant (December 8, May 11)
+- Restaurant 
+* May 11
+* December 8
+
+## Notes
+- Working hours start at the latest at 9:30 AM.
