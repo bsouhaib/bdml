@@ -6,6 +6,9 @@
 ## Group meetings
 - [Meeting minutes](/group-meetings)
 
+## Seminar series
+- [List of seminars](./seminars.md)
+
 ## Activities
 
 * Group Photo
