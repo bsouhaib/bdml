@@ -15,6 +15,3 @@
 * Restaurant 
 	- May 11, 2022
 	- December 8, 2021
-
-## Notes
-- Working hours start at 9:30 AM (at the latest).
