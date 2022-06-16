@@ -9,6 +9,7 @@
 ## Websites
 * https://souhaib-bentaieb.com/research-team/
 * https://web.umons.ac.be/bdml/
+* https://github.com/Vekteur/bdml-workstations/wiki (private)
 
 ## Group meetings
 - [Meeting minutes](/group-meetings)
