@@ -17,8 +17,13 @@
 ## Seminar series
 - [List of seminars](./seminars.md)
 
+## Internships
+- Yorick ESTIEVENART (BIR)
+- Claire Mezieres (Polytech Clermont, France)
+
 ## Activities
 
+* Oxford ML School (Tanguy, Victor, Sukanya) (8/8/2022 - 14/8/2022)
 * Group Photo
 * Restaurant 
 	- May 11, 2022
