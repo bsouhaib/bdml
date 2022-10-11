@@ -6,7 +6,7 @@
 * Victor Dheur [[PhD repository (private)]](https://github.com/Vekteur/PhD)
 * Sukanya Patra [[PhD repository (private)]](https://github.com/sukanyapatra1997/PhD) 
 
-## Useful for PhDs
+## Useful for PhD students
 * [How to Give a Great Research Talk (Youtube video) ](https://www.youtube.com/watch?v=sT_-owjKIbA)
 * [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
 
