@@ -7,8 +7,8 @@
 * Sukanya Patra [[PhD repository (private)]](https://github.com/sukanyapatra1997/PhD) 
 
 ## Useful for PhDs
-* (How to Give a Great Research Talk (Youtube video) )[https://www.youtube.com/watch?v=sT_-owjKIbA]
-* (How to Write a Great Research Paper (Youtube video) )[https://youtu.be/WP-FkUaOcOM]
+* [How to Give a Great Research Talk (Youtube video) ](https://www.youtube.com/watch?v=sT_-owjKIbA)
+* [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
 
 ## Websites
 * https://souhaib-bentaieb.com/research-team/
