@@ -7,6 +7,8 @@
 * Sukanya Patra [[PhD repository (private)]](https://github.com/sukanyapatra1997/PhD) 
 
 ## Useful for PhD students
+* [10 easy ways to fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/)
+* [How to fail a PhD](https://robjhyndman.com/hyndsight/phdfail/)
 * [How to Give a Great Research Talk (Youtube video) ](https://www.youtube.com/watch?v=sT_-owjKIbA)
 * [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
 
