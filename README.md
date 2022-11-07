@@ -25,7 +25,7 @@
 
 ## Internships
 - Yorick ESTIEVENART (BIR, "Energy-based models")
-- Claire Mezieres (Polytech Clermont, France)
+- Claire Mezieres (Polytech Clermont, France, "Dynamic Graphs")
 - Lionel Gauffaux (BIR, "Graph machine learning")
 
 ## Activities
