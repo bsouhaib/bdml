@@ -24,8 +24,9 @@
 - [List of seminars](./seminars.md)
 
 ## Internships
-- Yorick ESTIEVENART (BIR)
+- Yorick ESTIEVENART (BIR, "Energy-based models")
 - Claire Mezieres (Polytech Clermont, France)
+- Lionel Gauffaux (BIR, "Graph machine learning")
 
 ## Activities
 
