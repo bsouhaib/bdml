@@ -11,7 +11,7 @@
 * [How to fail a PhD](https://robjhyndman.com/hyndsight/phdfail/)
 * [How to Give a Great Research Talk (Youtube video) ](https://www.youtube.com/watch?v=sT_-owjKIbA)
 * [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
-# [What happens if midway through my PhD, I understand that I'm not good enough to conduct original research?(]https://www.quora.com/What-happens-if-midway-through-my-PhD-I-understand-that-Im-not-good-enough-to-conduct-original-research)
+* [What happens if midway through my PhD, I understand that I'm not good enough to conduct original research?(]https://www.quora.com/What-happens-if-midway-through-my-PhD-I-understand-that-Im-not-good-enough-to-conduct-original-research)
 
 ## Websites
 * https://souhaib-bentaieb.com/research-team/
