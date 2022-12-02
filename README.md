@@ -34,5 +34,6 @@
 * Oxford ML School (Tanguy, Victor, Sukanya) (8/8/2022 - 14/8/2022)
 * Group Photo
 * Restaurant 
-	- May 11, 2022
+	- November 4, 2022 (with Hien Le)
+	- May 11, 2022 (with Claire Meziers)
 	- December 8, 2021
