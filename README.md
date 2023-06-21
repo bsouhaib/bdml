@@ -12,6 +12,8 @@
 * [How to Give a Great Research Talk (Youtube video) ](https://www.youtube.com/watch?v=sT_-owjKIbA)
 * [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
 * [What happens if midway through my PhD, I understand that I'm not good enough to conduct original research?](https://www.quora.com/What-happens-if-midway-through-my-PhD-I-understand-that-Im-not-good-enough-to-conduct-original-research)
+* [Resources to Help Global Equality for PhDs in ML/NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality/?utm_source=substack&utm_medium=email)
+
 
 ## Websites
 * https://souhaib-bentaieb.com/research-team/
