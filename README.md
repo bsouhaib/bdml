@@ -13,7 +13,11 @@
 * [How to Write a Great Research Paper (Youtube video) ](https://youtu.be/WP-FkUaOcOM)
 * [What happens if midway through my PhD, I understand that I'm not good enough to conduct original research?](https://www.quora.com/What-happens-if-midway-through-my-PhD-I-understand-that-Im-not-good-enough-to-conduct-original-research)
 * [Resources to Help Global Equality for PhDs in ML/NLP / AI](https://github.com/zhijing-jin/nlp-phd-global-equality/?utm_source=substack&utm_medium=email)
-
+* Questions to ask ourselves to write a paper (J. Mummolo and  S. Gordon)
+  1. What is the research question?
+  2. Why do we care? Why don't we already know the answer? Why is it hard? (What has gone overlooked; what did prior work get wrong? Could be theoretical or empirical)
+  3. What you did to answer the question that was new.
+  4. What what did we learn?
 
 ## Websites
 * https://souhaib-bentaieb.com/research-team/
